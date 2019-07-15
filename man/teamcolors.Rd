@@ -12,9 +12,11 @@
  \item{secondary}{the team's secondary color}
  \item{tertiary}{the team's tertiary color}
  \item{quaternary}{the team's quaternary color}
+ \item{division}{the team's division}
+ \item{logo}{URL to the team's logo, hosted by \url{http://www.sportslogos.net}}
 }}
 \source{
-\url{http://jim-nielsen.com/teamcolors/}
+\url{http://jim-nielsen.com/teamcolors/}, \url{http://www.sportslogos.net}
 }
 \usage{
 teamcolors
